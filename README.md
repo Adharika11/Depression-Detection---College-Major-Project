@@ -13,10 +13,9 @@ The dataset utilized comprises EEG recordings collected from 181 patients at HUS
 This comprehensive approach aims to not only identify EEG biomarkers associated  with depression but also to construct predictive models capable of reliably distinguishing individuals exhibiting depressive symptoms at an early stage. Through  the fusion of EEG data analysis and supervised learning methodologies, this research  contributes to the burgeoning field of computational psychiatry, offering a robust  framework for depression detection. The findings of this research hold significant  promise for enhancing early detection and personalized management of depression,  thereby advancing mental health care practices.
 
 ## Tech-Stack Used : 
-    MNE Python Library - MNE-Python is an open-source Python module for processing, analysis, and visualization of functional neuroimaging data (EEG, 
-                            MEG, sEEG,etc)
+    MNE Python Library - MNE-Python is an open-source Python module for processing, analysis, and visualization of functional neuroimaging data.
 
-## Conclusion
+## Results
 The validation of the depression detection project using EEG biomarkers reveals  significant insights into the effectiveness and applicability of various machine  learning models for this task. Each model exhibits unique strengths and limitations,  as evidenced by their performance metrics—accuracy, precision, recall, and F1- score. These metrics not only offer a comprehensive understanding of each model's  predictive capability but also inform the selection of the most suitable model for  real-world applications in clinical settings. 
 
 Random Forest Classifier emerges as the most proficient model with the highest  overall accuracy of 88.39%. Its balanced precision and recall scores for both classes  (non-depressed and depressed) suggest a robust capability to generalize across  diverse data samples. The model's high F1-scores further indicate a harmonious  balance between precision and recall, making it a reliable choice for accurately  diagnosing depression through EEG signals. 
