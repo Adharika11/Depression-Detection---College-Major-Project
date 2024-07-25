@@ -1,4 +1,4 @@
-# Depression-Detection---College-Major-Project
+#Depression Detection 
 
 
 ## Summary of the Project 
